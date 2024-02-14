@@ -9,6 +9,15 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
+    path: Assets/Scenes/4- Scene Manager.unity
+    guid: d4abe2d3ccfe24d00913975f071ef73d
+  - enabled: 1
+    path: Assets/Scenes/1 - AR Placer.unity
+    guid: 6b591ac63129c4049a89c79fcb505b40
+  - enabled: 1
+    path: Assets/Scenes/2 - AR Examiner.unity
+    guid: 2e424bbd05bcb1144981b2147f811391
+  - enabled: 1
     path: Assets/Scenes/3 - AR Magic Box.unity
     guid: 407951f47758fb1458a5074d42feb9ca
   m_configObjects:
